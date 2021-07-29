@@ -45,6 +45,9 @@
     text-align:center;
     padding-bottom:20px;
   }
+  .mid-content{
+    height:370px;
+  }
   .header-right{
     display: none;
   }
